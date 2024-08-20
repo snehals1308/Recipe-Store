@@ -15,3 +15,10 @@ Image Upload: Upload images for each recipe.
 Recipe Description: Add a detailed description for each recipe.
 
 Database: All data is stored in an SQLite database.
+
+## Technologies Used
+Backend: Django (Python)
+
+Database: SQLite
+
+Frontend: Django Templates, HTML, CSS
